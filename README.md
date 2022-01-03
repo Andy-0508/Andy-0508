@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; I’m currently working as Sofware Test Engineer 
-- 🤔 &nbsp; Exploring new technologies and knowing more about it 
+- 👨‍💻 &nbsp; Exploring new technologies and knowing more about it 
 - 🎓 &nbsp; E&TC Engineer 👨‍🎓
 - ✍️ &nbsp; Love watching thriller web series and historic movies.
 - 🎼 &nbsp; I belive, a perfect song can be the ultimate solution for any stress. 
