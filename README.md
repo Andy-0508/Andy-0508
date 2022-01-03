@@ -9,7 +9,7 @@
 - 🤔 &nbsp; Exploring new technologies and knowing more about it 
 - 🎓 &nbsp; E&TC Engineer 👨‍🎓
 - ✍️ &nbsp; Love watching thriller web series and historic movies.
-- ☕ &nbsp; I belive, a perfect song can be the ultimate solution for any stress. 
+-🎼 &nbsp; I belive, a perfect song can be the ultimate solution for any stress. 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
