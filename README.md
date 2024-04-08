@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; I’m currently working as Testing Engineer | Customer Success Engineer 
+- 💼 &nbsp; I’m currently working as R&D Engineer | Testing Engineer
 - 👨‍💻 &nbsp; Exploring new technologies and knowing more about it 
 - 🎓 &nbsp; E&TC Engineer 👨‍🎓
 - ✍️ &nbsp; Love watching thriller web series and historic movies.
